@@ -1,4 +1,4 @@
-baseURL = 'https://svsk1ng.github.io/siolive/'
+baseURL = 'https://svsk1ng.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'sio Blog'
 theme = "maupassant"
