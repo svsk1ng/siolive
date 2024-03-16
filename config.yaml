@@ -12,6 +12,6 @@ params:
 menu:
   main:
     - identifier: archives
-      name: sio
+      name: Archives
       url: /archives/
       weight: 3
