@@ -10,8 +10,8 @@ params:
   description: "Privacy enthousiast, Computer networks and Music Lover"
 
 menu:
-  menu.main:
-    identifier: "archives"
-    name: "Archives"
-    url: "/archives/"
-    weight: 3
+  main:
+    - identifier: archives
+      name: sio
+      url: /archives/
+      weight: 3
