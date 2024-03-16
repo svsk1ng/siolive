@@ -3,6 +3,8 @@ title: "Why Privacy and Security Matters"
 date: 2023-09-09T13:05:18+03:00
 categories:
   - privacy
+tags:
+  - privacy
 ---
 
 We live in the modern age of didital data exploitation. Big tech companies are trying to make big profits from users data and targeted-advertising. Our privacy and security is at a critical stage and everyone shall try to be more alerted of what information are exposing to the web. For starters, let me explain the difference between privacy and security from my prespective.
