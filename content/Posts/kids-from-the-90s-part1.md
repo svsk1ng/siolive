@@ -5,6 +5,7 @@ categories:
   - stories
 tags:
   - stories
+hiddenFromHomePage: false
 ---
 
 I fondly recall my childhood, a time when I rushed home from school only to dash out again to join my friends in the neighborhood for hours of unbridled play. Those were the glorious days of the 90s when our idea of fun was kicking around a football or lounging in the park until our knees were caked in dirt. Back then, the concept of a smart mobile device was as alien to us as space travel. We communicated with our friends through landlines, and, remarkably, I can still recite most of their phone numbers from memory. Even today, we remain a close-knit group, a testament to the enduring bonds forged in those simpler times. 

@@ -5,6 +5,7 @@ categories:
   - stories
 tags:
   - stories
+hiddenFromHomePage: false
 ---
 
 I remember back in the days, we couldn't wait for the weekend just to go to the video game or music CD stores. Personally, every Saturday, I woke up at 8:00 am, and by 8:30 am, I was already on the bus heading downtown with my friends.

@@ -5,6 +5,7 @@ categories:
   - privacy
 tags:
   - privacy
+hiddenFromHomePage: false
 ---
 
 We live in the modern age of didital data exploitation. Big tech companies are trying to make big profits from users data and targeted-advertising. Our privacy and security is at a critical stage and everyone shall try to be more alerted of what information are exposing to the web. For starters, let me explain the difference between privacy and security from my prespective.
