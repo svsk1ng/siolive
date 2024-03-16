@@ -2,3 +2,9 @@ baseURL: https://savvas.live
 languageCode: en-us
 title: sio Blog
 theme: maupassant
+
+params:
+  author: "sio"
+  subtitle: "Privacy enthousiast, Computer networks and Music Lover"
+  keywords: "Privacy enthousiast, Computer networks and Music Lover"
+  description: "Privacy enthousiast, Computer networks and Music Lover"

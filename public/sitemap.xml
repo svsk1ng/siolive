@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-01-13T12:26:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/kids-from-the-90s-part2/</loc>
-    <lastmod>2024-01-13T12:26:25+02:00</lastmod>
+    <lastmod>2024-02-18T13:05:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-01-13T12:26:25+02:00</lastmod>
+    <lastmod>2024-02-18T13:05:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/privacy/</loc>
+    <lastmod>2024-02-18T13:05:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/privacy/</loc>
+    <lastmod>2024-02-18T13:05:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-18T13:05:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-18T13:05:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-privacy-and-security-matters/</loc>
+    <lastmod>2024-02-18T13:05:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kids-from-the-90s-part2/</loc>
     <lastmod>2024-01-13T12:26:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/stories/</loc>
@@ -19,18 +31,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/stories/</loc>
     <lastmod>2024-01-13T12:26:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-01-13T12:26:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2023-09-09T13:05:18+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/privacy/</loc>
-    <lastmod>2023-09-09T13:05:18+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/why-privacy-and-security-matters/</loc>
-    <lastmod>2023-09-09T13:05:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/kids-from-the-90s-part1/</loc>
     <lastmod>2023-09-06T17:59:07+03:00</lastmod>
