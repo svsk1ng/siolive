@@ -13,5 +13,5 @@ menu:
   menu.main:
     identifier: "archives"
     name: "Archives"
-    url = "/archives/"
-    weight = 3
+    url: "/archives/"
+    weight: 3
