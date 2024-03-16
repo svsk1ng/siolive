@@ -1,6 +1,6 @@
 ---
 title: "Why Privacy and Security Matters"
-date: 2023-09-09T13:05:18+03:00
+date: 2024-02-18T13:05:18+03:00
 categories:
   - privacy
 tags:
