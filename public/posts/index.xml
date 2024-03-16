@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sio Blog</title>
-    <link>http://localhost:1313/svsk1ng/siolive/</link>
-    <description>Recent content on sio Blog</description>
+    <title>Posts on sio Blog</title>
+    <link>http://localhost:1313/svsk1ng/siolive/posts/</link>
+    <description>Recent content in Posts on sio Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jan 2024 12:26:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/svsk1ng/siolive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/svsk1ng/siolive/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kids From the 90s Part 2</title>
       <link>http://localhost:1313/svsk1ng/siolive/posts/kids-from-the-90s-part2/</link>
