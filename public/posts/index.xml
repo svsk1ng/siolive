@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on sio Blog</title>
-    <link>http://localhost:1313/svsk1ng/siolive/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on sio Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jan 2024 12:26:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/svsk1ng/siolive/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kids From the 90s Part 2</title>
-      <link>http://localhost:1313/svsk1ng/siolive/posts/kids-from-the-90s-part2/</link>
+      <link>http://localhost:1313/posts/kids-from-the-90s-part2/</link>
       <pubDate>Sat, 13 Jan 2024 12:26:25 +0200</pubDate>
-      <guid>http://localhost:1313/svsk1ng/siolive/posts/kids-from-the-90s-part2/</guid>
+      <guid>http://localhost:1313/posts/kids-from-the-90s-part2/</guid>
       <description>I remember back in the days, we couldn&amp;rsquo;t wait for the weekend just to go to the video game or music CD stores. Personally, every Saturday, I woke up at 8:00 am, and by 8:30 am, I was already on the bus heading downtown with my friends.&#xA;The first thing I would do was visit my favorite music CD store called &amp;ldquo;Traffic&amp;rdquo; and buy a music CD. Every Saturday, I bought one CD to listen to the whole week before the next Saturday.</description>
     </item>
     <item>
       <title>Why Privacy and Security Matters</title>
-      <link>http://localhost:1313/svsk1ng/siolive/posts/why-privacy-and-security-matters/</link>
+      <link>http://localhost:1313/posts/why-privacy-and-security-matters/</link>
       <pubDate>Sat, 09 Sep 2023 13:05:18 +0300</pubDate>
-      <guid>http://localhost:1313/svsk1ng/siolive/posts/why-privacy-and-security-matters/</guid>
+      <guid>http://localhost:1313/posts/why-privacy-and-security-matters/</guid>
       <description>We live in the modern age of didital data exploitation. Big tech companies are trying to make big profits from users data and targeted-advertising. Our privacy and security is at a critical stage and everyone shall try to be more alerted of what information are exposing to the web. For starters, let me explain the difference between privacy and security from my prespective.&#xA;Privacy is the assurance that your data is only seen by the parties you itent to view it.</description>
     </item>
     <item>
       <title>Kids From the 90s Part 1</title>
-      <link>http://localhost:1313/svsk1ng/siolive/posts/kids-from-the-90s-part1/</link>
+      <link>http://localhost:1313/posts/kids-from-the-90s-part1/</link>
       <pubDate>Wed, 06 Sep 2023 17:59:07 +0300</pubDate>
-      <guid>http://localhost:1313/svsk1ng/siolive/posts/kids-from-the-90s-part1/</guid>
+      <guid>http://localhost:1313/posts/kids-from-the-90s-part1/</guid>
       <description>I fondly recall my childhood, a time when I rushed home from school only to dash out again to join my friends in the neighborhood for hours of unbridled play. Those were the glorious days of the 90s when our idea of fun was kicking around a football or lounging in the park until our knees were caked in dirt. Back then, the concept of a smart mobile device was as alien to us as space travel.</description>
     </item>
   </channel>
