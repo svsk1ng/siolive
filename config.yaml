@@ -8,3 +8,10 @@ params:
   subtitle: "Privacy enthousiast, Computer networks and Music Lover"
   keywords: "Privacy enthousiast, Computer networks and Music Lover"
   description: "Privacy enthousiast, Computer networks and Music Lover"
+
+menu:
+  menu.main:
+    identifier: "archives"
+    name: "Archives"
+    url = "/archives/"
+    weight = 3
