@@ -2,7 +2,7 @@
 title: "Kids From the 90s Part 1"
 date: 2023-09-06T17:59:07+03:00
 categories:
-  - privacy
+  - stories
 tags:
   - stories
 ---

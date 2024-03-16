@@ -2,9 +2,9 @@
 title: "Kids From the 90s Part 2"
 date: 2024-01-13T12:26:25+02:00
 categories:
-  - privacy
+  - stories
 tags:
-  - privacy
+  - stories
 ---
 
 I remember back in the days, we couldn't wait for the weekend just to go to the video game or music CD stores. Personally, every Saturday, I woke up at 8:00 am, and by 8:30 am, I was already on the bus heading downtown with my friends.
