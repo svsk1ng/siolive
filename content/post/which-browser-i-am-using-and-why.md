@@ -26,7 +26,10 @@ Additionally, there's a **web tool** available that evaluates various browsers a
 
 By considering these factors and my personal experiences, I stand by my endorsement of Brave as an ideal browser choice for the common user.
 
+Feel free to email me if you have different opinion about this article or give me feedback at: info@savvas.live . I will be more than happy to get your feedback and try to get better next time writing an article since this is new for me. 
 
+Thanks for reading :) 
+Savvas
 
 
 
