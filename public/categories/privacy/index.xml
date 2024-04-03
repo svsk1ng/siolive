@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Privacy on sio Blog</title>
+    <title>Privacy on Savvas Blog</title>
     <link>http://localhost:1313/categories/privacy/</link>
-    <description>Recent content in Privacy on sio Blog</description>
+    <description>Recent content in Privacy on Savvas Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2024 13:05:18 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 16:06:18 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which Browser i am using and why</title>
+      <link>http://localhost:1313/post/which-browser-i-am-using-and-why/</link>
+      <pubDate>Mon, 01 Apr 2024 16:06:18 +0300</pubDate>
+      <guid>http://localhost:1313/post/which-browser-i-am-using-and-why/</guid>
+      <description>After conducting extensive research on internet browsers over the past four years, I aim to elucidate which browser I believe is optimal for the average user and provide reasons for my recommendation. Please note that this is solely my personal opinion, and it may not necessarily be universally applicable.&#xA;The browser I advocate for is Brave. Below, I will analyze and elucidate my choice, explaining why I endorse Brave.&#xA;Brave stands out initially as a browser that functions seamlessly upon installation.</description>
+    </item>
     <item>
       <title>Why Privacy and Security Matters</title>
       <link>http://localhost:1313/post/why-privacy-and-security-matters/</link>

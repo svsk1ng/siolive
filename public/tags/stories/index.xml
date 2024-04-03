@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stories on sio Blog</title>
+    <title>Stories on Savvas Blog</title>
     <link>http://localhost:1313/tags/stories/</link>
-    <description>Recent content in Stories on sio Blog</description>
+    <description>Recent content in Stories on Savvas Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jan 2024 12:26:25 +0200</lastBuildDate>
